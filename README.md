@@ -17,8 +17,29 @@ Responde a las siguientes preguntas y confirma si sabes programar en Javascript:
 Responde a las siguientes preguntas y confirma si sabes cocina amateur:
 
 ## Conceptos Básicos sobre Programar
+- Objetos
+- Variables
+- Funciones
+- Flow Control
+- Closures
+- 
 
 ## Conceptos Básicos sobre la Cocina
+- Métodos de Cocción
+- Medidas
+- Métodos de Conservación
+- Cómo usar los implementos de cocina
+  - Cuchillos
+  - Abrelatas
+  - Pinzas
+  - Paletas y Cucharas
+  - Otros
+- Tipos de Contenedores para cocinar
+  - Ollas
+  - Sartenes
+  - Bandejas
+  - Refractarias
+  - Otros
 
 ## Recetas
 - Eggs six ways
@@ -34,10 +55,14 @@ Responde a las siguientes preguntas y confirma si sabes cocina amateur:
 - Bake a Cake
 - Don´t stop here.
 
-## Programas
-
 ## Usa programas para cocinar
+- Timer (Cronómetro)
+- Stepper (Paso a Paso)
+- Scale Conversor (Conversor de Medidad)
+- Recipe Finder (Buscador de Recetas)
+- Shopping List (Lista de Compras)
 
-## Usa la cocina para aprender sobre procesos asincrónicos
+## Usa la cocina para aprender sobre procesos
+-  
 
-## La importancia de escribir con claridad y de cocinar con consistencia.
+## La importancia de escribir con claridad y de coci nar con consistencia.
