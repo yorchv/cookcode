@@ -1,20 +1,25 @@
 # Cocina JS
-Aprende a cocina amateur con javascript, aprende javascript con cocina amateur.
-Hay tres caminos que puedes tomar en este libro.
-
-1. Sé programar Javascript y quiero aprender a cocinar.
-2. Sé cocinar y quiero aprender a programar en Javascript
-3. Sé cocinar y programar Javascript pero aún quiero aprender.
+Aprende cocina amateur mientras desarrollar en javascript. Aprende a desarrollar en javascript mientras cocinas.
 
 ## Sé Programar?
 
-Responde a las siguientes preguntas y confirma si sabes programar en Javascript:
-
-
+Confirma si sabes programar en Javascript:
+- Puedo comprender que hace un programa escrito en JavaScript.
+- Conozco las herramientas que me permiten inspeccionar el código cuando se está ejecutando.
+- Puedo crear programas en Javascript usando las correctas estructuras de datos.
+- Sé cuales son los Pros y los Contras de elegir un lenguaje con las caracteristicas que tiene Javascript.
+- Sé usar Node o el Navegador para probar y usar mis programas.
 
 ## Sé Cocinar?
 
-Responde a las siguientes preguntas y confirma si sabes cocina amateur:
+Confirma si sabes cocina amateur:
+
+- Conozco la diferencia entre ingredientes y recetas.
+- Sé usar un cuchillo de cocina de forma de forma correcta.
+- Conozco por lo menos 5 formas diferentes de cocción.
+- Puedo ennumerar los diferentes tipos de gustos y la forma en la interactúan.
+- Sé preparar recetas sin seguir instrucciones.
+- Puedo crear recetas sencillas usando las bases de otras recetas. 
 
 ## Conceptos Básicos sobre Programar
 - Objetos
@@ -22,7 +27,6 @@ Responde a las siguientes preguntas y confirma si sabes cocina amateur:
 - Funciones
 - Flow Control
 - Closures
-- 
 
 ## Conceptos Básicos sobre la Cocina
 - Métodos de Cocción
@@ -63,6 +67,5 @@ Responde a las siguientes preguntas y confirma si sabes cocina amateur:
 - Shopping List (Lista de Compras)
 
 ## Usa la cocina para aprender sobre procesos
--  
 
 ## La importancia de escribir con claridad y de coci nar con consistencia.
